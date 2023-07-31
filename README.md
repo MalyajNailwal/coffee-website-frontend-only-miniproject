@@ -1,1 +1,1 @@
-# coffee-website-frontend-only-miniproject
+Coffee website usin' JS, HTML and CSS
